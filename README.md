@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nhuanhanh
+- 👋 Hi, I’m
 - 👀 I’m interested in Machine learning and deep learning domain
 
 <!---
